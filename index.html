@@ -14,7 +14,6 @@
     <header>
         <div class="container">
             <div class="logo-container">
-                <img src="logo.png" alt="Holistic Investments Logo" id="logo">
                 <h1>Holistic Investments</h1>
             </div>
             <nav>
@@ -44,14 +43,27 @@
         <section id="events">
             <div class="container">
                 <h2>Potential Coin Events</h2>
-                <div class="filter-controls">
-                    <div id="tag-filters" class="tag-filters">
+                <div class="controls-toolbar">
+                    <div class="filter-dropdown-container">
+                        <button id="filter-button" class="filter-toggle-button">
+                            <i class="fas fa-filter"></i> Filters <span id="active-filter-count">(0)</span>
+                        </button>
+                        <div id="filter-dropdown-menu" class="filter-dropdown-menu">
+                            <h4>Filter by Category</h4>
+                            <div id="filter-options">
+                                </div>
+                            <div class="dropdown-actions">
+                                <button id="apply-filters-button">Apply</button>
+                                <button id="clear-filters-button">Clear</button>
+                            </div>
                         </div>
+                    </div>
                     <div class="sort-controls">
                         <button id="sort-date-asc" class="sort-button" title="Sort by Oldest First"><i class="fas fa-sort-amount-down-alt"></i> Date Asc</button>
                         <button id="sort-date-desc" class="sort-button" title="Sort by Newest First"><i class="fas fa-sort-amount-up-alt"></i> Date Desc</button>
                     </div>
                 </div>
+                <div id="event-list-status" class="event-list-status">Loading events...</div>
                 <div id="event-list" class="event-grid">
                     </div>
             </div>
@@ -77,7 +89,7 @@
             <p id="modal-full-description"></p>
             <div id="modal-coins" class="coin-list">
                 <h4>Associated Coins:</h4>
-                </div>
+            </div>
         </div>
     </div>
 

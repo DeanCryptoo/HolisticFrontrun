@@ -1,0 +1,336 @@
+[
+  {
+    "eventName": "🍕 Bitcoin Pizza Day",
+    "dateString": "May 22, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Celebrating the first real-world Bitcoin purchase—often sparks meme campaigns.",
+    "coins": [
+      { "address": "2AegcsRtVeSvoGRPDBSfTRRGH8YhU2RhgnqzgCLmd4oY" },
+      { "address": "5z3FcZmYk3aM3hRH3Ggu8Y9gLgNSMHTchGsGmUReYBz3" }
+    ],
+    "tags": ["Crypto", "Milestone", "Celebration"]
+  },
+  {
+    "eventName": "✊ George Floyd Death Anniversary",
+    "dateString": "May 25, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "High social narrative potential.",
+    "coins": [
+      { "address": "6qtwnLCDUKf3tbTJBoYBJfncQQBt7QfH435XbAWZRXbs" }
+    ],
+    "tags": ["Political & Social", "Milestone"]
+  },
+  {
+    "eventName": "🦍 Harambe Birthday",
+    "dateString": "May 25, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Legacy meme narrative.",
+    "coins": [
+      { "address": "6qtwnLCDUKf3tbTJBoYBJfncQQBt7QfH435XbAWZRXbs" }
+    ],
+    "tags": ["Meme & Legacy", "Celebration"]
+  },
+  {
+    "eventName": "🦍 Harambe Death Anniversary",
+    "dateString": "May 28, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Annual meme revival potential.",
+    "coins": [
+      { "address": "Fch1oixTPri8zxBnmdCEADoJW2toyFHxqDZacQkwdvSP" }
+    ],
+    "tags": ["Meme & Legacy", "Milestone"]
+  },
+  {
+    "eventName": "🏳️‍🌈 Pride Month",
+    "dateString": "June 1, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Seasonal cultural trend opportunity.",
+    "coins": [
+      { "address": "9mQEkFVqmRJLMPUJT25qriKXi2sH8RiuMBrzLeLupump" }
+    ],
+    "tags": ["Seasonal & Holiday", "Political & Social", "Celebration"]
+  },
+  {
+    "eventName": "☀️ Summer",
+    "dateString": "June 1, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Seasonal lifestyle narrative.",
+    "coins": [
+      { "address": "6BQjp7nPMZNkstxdw2UFH1gf76cGmNuR3bTmSbgxpump" }
+    ],
+    "tags": ["Seasonal & Holiday"]
+  },
+  {
+    "eventName": "🏀 NBA Finals",
+    "dateString": "June 5, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "High media coverage sports narrative.",
+    "coins": [
+      { "address": "jhMMjiirVamjUZsQNghtqH6jbg5zy3BTwx5YwYZpump" }
+    ],
+    "tags": ["Entertainment", "Game"]
+  },
+  {
+    "eventName": "🎉 Donald Trump's Birthday",
+    "dateString": "June 14, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Political and meme culture crossover.",
+    "coins": [
+      { "address": "AmonPTx29aqnjXwdsqV7nXTK7tqHoeZmxFp3W3UTpump" }
+    ],
+    "tags": ["Political & Social", "Meme & Legacy", "Celebration"]
+  },
+  {
+    "eventName": "🦑 Squid Games",
+    "dateString": "June 26, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Anticipated pop culture sequel hype.",
+    "coins": [
+      { "address": "6sbSz8r8sqap2DERkxvDLxAHBWpLiD5LnUfiW3wQpump" }
+    ],
+    "tags": ["Entertainment", "Pop-Culture"]
+  },
+  {
+    "eventName": "🚀 Elon Musk's Birthday",
+    "dateString": "June 28, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Elon-related narratives tend to trend.",
+    "coins": [
+      { "address": "233wzivZi9SevKLC81uCBNgkyZP1TzAtwSLXn1DWpump" }
+    ],
+    "tags": ["Tech", "Meme & Legacy", "Celebration"]
+  },
+  {
+    "eventName": "🇺🇸 July 4th",
+    "dateString": "July 4, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Patriotic and cultural event.",
+    "coins": [
+      { "address": "DtjrhG1S5cgEcbp6N4YL61HWqeUAVpfepM89aoNgU2yL" },
+      { "address": "5E9v1BzHpeVb9zxQhTjzEKJU246PjrykQYbGubn5PCHL" }
+    ],
+    "tags": ["Seasonal & Holiday", "Celebration", "Political & Social"]
+  },
+  {
+    "eventName": "🦸 Superman Movie",
+    "dateString": "July 11, 2025",
+    "category": "🗓️ Confirmed Dates (Set Dates)",
+    "fullDescription": "Big media franchise release.",
+    "coins": [
+      { "address": "4xKiyH7VaTGc7j6HhZuTR6tc88njqWyf3hL9XCRqpump" },
+      { "address": "FHc1Dg4z6hpoB4kBefGZU9spRKBW8gexpjEhMSJ9pump" }
+    ],
+    "tags": ["Entertainment", "Pop-Culture"]
+  },
+  {
+    "eventName": "💥 Technical Recession, Q2 GDP Print",
+    "dateString": "July 25, 2025 (Tentative)",
+    "category": "🕐 Expected / Tentative (Date Not Confirmed)",
+    "fullDescription": "2 Quarters of negative growth is a technical recession in the U.S.(doesn’t mean actual NBER recession).",
+    "coins": [
+      { "address": "58WAscyseSRr23SR3kE8paAfmazScJsRn1TexJtgpump" }
+    ],
+    "tags": ["Economic & Finance", "Political & Social"]
+  },
+  {
+    "eventName": "🏛️ Stablecoin Bill",
+    "dateString": "August 2025 (Tentative)",
+    "category": "🕐 Expected / Tentative (Date Not Confirmed)",
+    "fullDescription": "Could trigger regulatory narrative.",
+    "coins": [
+      { "address": "DM6ffRmbBZUMEcgLePygJXktj525jx45hTNVHjxDpump" }
+    ],
+    "tags": ["Crypto", "Political & Social", "Economic & Finance"]
+  },
+  {
+    "eventName": "🧠 Grok 4",
+    "dateString": "Late 2025",
+    "category": "🕐 Expected / Tentative (Date Not Confirmed)",
+    "fullDescription": "Elon Musk's AI product launch narrative.",
+    "coins": [
+      { "address": "GpDzQVu8gTLfnTEJdsbWiLBJo8SduQtkGpJfmEJnpump" }
+    ],
+    "tags": ["Tech", "Meme & Legacy"]
+  },
+  {
+    "eventName": "👻 Stranger Things",
+    "dateString": "Late 2025",
+    "category": "🕐 Expected / Tentative (Date Not Confirmed)",
+    "fullDescription": "Pop culture nostalgia wave.",
+    "coins": [
+      { "address": "8ChdT1DuygvAyRwjPche6HaMWJdfQe8nAzyWUreGZQgx" }
+    ],
+    "tags": ["Entertainment", "Pop-Culture"]
+  },
+  {
+    "eventName": "🌊 Avatar 3 Movie",
+    "dateString": "December 2025",
+    "category": "🕐 Expected / Tentative (Date Not Confirmed)",
+    "fullDescription": "Massive franchise return.",
+    "coins": [
+      { "address": "3K8dGSW7CZY6YkLXsDf1Y2JPBF837okcQUcpGnwopump" },
+      { "address": "4ENeqaEfDqtquXofwNTjcYDHS7pDmmyTYnB3qSKUpump" }
+    ],
+    "tags": ["Entertainment", "Pop-Culture"]
+  },
+  {
+    "eventName": "General Meme Wave",
+    "dateString": "2026",
+    "category": "🗓️ 2026 Meme Narrative",
+    "fullDescription": "General meme wave opportunity.",
+    "coins": [
+      { "address": "GrPYqhdyhzot7F34XXUm4VJVPNSujaCgUcPAxmuepump" }
+    ],
+    "tags": ["Meme & Legacy", "Crypto"]
+  },
+  {
+    "eventName": "🎮 GTA 6",
+    "dateString": "May 2026",
+    "category": "🗓️ 2026 Meme Narrative",
+    "fullDescription": "Largest video game launch hype.",
+    "coins": [
+      { "address": "25okNXRjYJC4nwyg84e1tV5VAuCJT8CYe1tJJYoFqJnw" },
+      { "address": "6rq1xS3xV2ufM8Rw9TBJpYfMniCem3Hf8ViByBS2pump" },
+      { "address": "2FcsqRrhvgSfYxJWh32xW873vyqBZ9jmMyXqYSPgNtuZ" }
+    ],
+    "tags": ["Game", "Entertainment", "Pop-Culture"]
+  },
+  {
+    "eventName": "🏆 Fort Knox",
+    "dateString": "TBD",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Speculated government gold-backed meme.",
+    "coins": [
+      { "address": "4N8g7mw171aVC1oMMRV1pMrQuB1RwFHaJan2WYyBpump" }
+    ],
+    "tags": ["Crypto", "Economic & Finance", "Meme & Legacy"]
+  },
+  {
+    "eventName": "🚫 TikTok Getting Banned",
+    "dateString": "TBD",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "US-China tension and creator economy narrative.",
+    "coins": [
+      { "address": "65CFQVF1tfDMAtXrGDZR61M24D6eWrA8FpCDg44Jpump" },
+      { "address": "FW7aAw92HWnWrUmGe4HHrdHjqshQ2CnyFMqBkSDnpump" },
+      { "address": "9EKVNo223qgMyAUjaSXMR4zUkcFM42LpxXUatsiGpump" }
+    ],
+    "tags": ["Political & Social", "Tech", "Economic & Finance"]
+  },
+  {
+    "eventName": "📱 Solana Phone 2 – Seeker",
+    "dateString": "Mid 2025",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "New hardware narrative from the Solana ecosystem.",
+    "coins": [
+      { "address": "AAAnrZ1BzW6faFjFhZFooGJi5hgG1jceMC7tkaxPpump" }
+    ],
+    "tags": ["Tech", "Crypto"]
+  },
+  {
+    "eventName": "🚀 Artemis Flight to Moon",
+    "dateString": "September 2025",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Space exploration hype.",
+    "coins": [
+      { "address": "7Hge4Kcurq2418tmncLjiodNp58CNAkFPp5uWMYypump" }
+    ],
+    "tags": ["Space & Exploration", "Tech"]
+  },
+  {
+    "eventName": "📱 New iPhone Release",
+    "dateString": "September 2025",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Annual tech product cycle.",
+    "coins": [
+      { "address": "572C9csb7sanPYojYgXoJsfFhXHSMESTKgw4kvDLGyoP" },
+      { "address": "7oap156ExYQMzKapu3YVKEEmmd2CP1F3Cgd85un2pump" },
+      { "address": "RCy3QnmxESXwpgSYtiJazK89azSLcjZ8VZ9mnaLzGH6" }
+    ],
+    "tags": ["Tech", "Pop-Culture"]
+  },
+  {
+    "eventName": "🟢 XRP ETF",
+    "dateString": "Expected 2025, Possibly Q2",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Ripple’s legal clarity could trigger meme wave.",
+    "coins": [
+      { "address": "HyBAcPFiRuWgyUYNwR3YQrQXEw7qqoRoHyGfDxz8B1Xk" }
+    ],
+    "tags": ["Crypto", "Economic & Finance"]
+  },
+  {
+    "eventName": "🟩 Sol ETF",
+    "dateString": "October 2025",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Major regulatory catalyst if approved.",
+    "coins": [
+      { "address": "5ipC8wrxZR2DzPyM6Y8EFekUAd1HVoJHpXdeJ52HTrM2" }
+    ],
+    "tags": ["Crypto", "Economic & Finance"]
+  },
+  {
+    "eventName": "🐕 Doge ETF",
+    "dateString": "N/A",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Potential for mass meme rally if announced.",
+    "coins": [
+      { "address": "9JDUJtFg5cbG3XccN5f6u77pVCA6ScyCjsN89j8LgEAE" }
+    ],
+    "tags": ["Crypto", "Meme & Legacy", "Economic & Finance"]
+  },
+  {
+    "eventName": "🇺🇸 Trump ETF",
+    "dateString": "N/A",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Political meme and election cycle.",
+    "coins": [
+      { "address": "EPs9w3PPCPD5dwz1ZaUcdFzcb1E9VbNiQsmtQnZppump" }
+    ],
+    "tags": ["Political & Social", "Crypto", "Economic & Finance"]
+  },
+  {
+    "eventName": "💼 Strategic Trump Reserve",
+    "dateString": "N/A",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Political meme narrative.",
+    "coins": [
+      { "address": "9fBhDwAcwfTuY8aMRa8gaTv2P6pJxNGj6WggbRj1pump" }
+    ],
+    "tags": ["Political & Social", "Meme & Legacy"]
+  },
+  {
+    "eventName": "💵 Solana Hitting $300",
+    "dateString": "TBD",
+    "category": "❓ No Date / TBD (Unconfirmed or Ongoing)",
+    "fullDescription": "Round number psychological target.",
+    "coins": [
+      { "address": "37Cq5gtweeVXzG6CQuWvwGuiS4bLxK6hDGFiZM2hpump" }
+    ],
+    "tags": ["Crypto", "Milestone"]
+  },
+  {
+    "eventName": "🎃 Halloween",
+    "dateString": "October 31",
+    "category": "💡 Future Ideas/Events",
+    "fullDescription": "Seasonal spooky fun.",
+    "coins": [],
+    "tags": ["Seasonal & Holiday", "Celebration"]
+  },
+  {
+    "eventName": "🦃 Thanksgiving",
+    "dateString": "November",
+    "category": "💡 Future Ideas/Events",
+    "fullDescription": "Holiday narratives.",
+    "coins": [],
+    "tags": ["Seasonal & Holiday", "Celebration"]
+  },
+  {
+    "eventName": "🎄 Christmas",
+    "dateString": "December 25",
+    "category": "💡 Future Ideas/Events",
+    "fullDescription": "Festive season opportunities.",
+    "coins": [],
+    "tags": ["Seasonal & Holiday", "Celebration"]
+  }
+]
