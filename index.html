@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontrun Strategy - Holistic Investments</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div id="particles-js"></div>
+
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <img src="logo.png" alt="Holistic Investments Logo" id="logo">
+                <h1>Holistic Investments</h1>
+            </div>
+            <nav>
+                <a href="#strategy-guide">Strategy Guide</a>
+                <a href="#events">Coin Events</a>
+                <a href="https://discord.gg/yourdiscordlink" target="_blank">Join Discord</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="hero">
+            <div class="container">
+                <h2>Discover Tomorrow's Narratives, Today.</h2>
+                <p class="subtitle">Welcome to the <span>Frontrun Strategy</span> – identifying high-potential memecoins before they hit the mainstream.</p>
+                <a href="#events" class="cta-button">Explore Potential Coins</a>
+            </div>
+        </section>
+
+        <section id="strategy-guide" class="container">
+            <h2>✅ Full Strategy Guide</h2>
+            <p>Before diving into the list, ensure you understand the approach. This isn't about acquiring every coin, but about strategic positioning for emerging narratives. Always do your own research (DYOR) and never risk more than you can afford to lose.</p>
+            <a href="#" class="cta-button-secondary" onclick="alert('Link to your Full Strategy Guide PDF/Page here!')">Read the Full Strategy Guide Here</a>
+            <p>Updates and coin reviews are shared in our <a href="https://discord.gg/yourdiscordlink" target="_blank" class="inline-link">Discord</a> and during our weekly Trading Stream every Wednesday.</p>
+        </section>
+
+        <section id="events">
+            <div class="container">
+                <h2>Potential Coin Events</h2>
+                <div class="filter-controls">
+                    <div id="tag-filters" class="tag-filters">
+                        </div>
+                    <div class="sort-controls">
+                        <button id="sort-date-asc" class="sort-button" title="Sort by Oldest First"><i class="fas fa-sort-amount-down-alt"></i> Date Asc</button>
+                        <button id="sort-date-desc" class="sort-button" title="Sort by Newest First"><i class="fas fa-sort-amount-up-alt"></i> Date Desc</button>
+                    </div>
+                </div>
+                <div id="event-list" class="event-grid">
+                    </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="currentYear"></span> Holistic Investments. All rights reserved.</p>
+            <p>Join our community for the latest updates!</p>
+            <div class="social-links">
+                <a href="https://discord.gg/yourdiscordlink" target="_blank"><i class="fab fa-discord"></i> Discord</a>
+            </div>
+        </div>
+    </footer>
+
+    <div id="eventModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <h2 id="modal-title">Event Title</h2>
+            <p id="modal-category-date" class="modal-category-date"></p>
+            <div id="modal-tags" class="modal-tags"></div>
+            <p id="modal-full-description"></p>
+            <div id="modal-coins" class="coin-list">
+                <h4>Associated Coins:</h4>
+                </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
